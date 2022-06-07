@@ -13,12 +13,21 @@ Currently studying a BSc of Software Engineering and Management with Göteborgs 
 const gusreinaos = {
   pronouns: "he" | "him",
   languages: [Java, HTML, CSS, JavaScript, TypeScript]
+  tools: [Bootstrap]
 }
 ```
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusreinaos)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 🌎 <ins>Contact</ins>
   - [Twitter](https://twitter.com/scar52006124)
+
+
+
+
+
+
+
+
 <!--
 - 🔭 I’m currently working on different personal projects that I'll be posting on my profile soon! 
 - 🌱 I’m currently learning TypeScript, JavaScript, Java, SQL and .NET 
