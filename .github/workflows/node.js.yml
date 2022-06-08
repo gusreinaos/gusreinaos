@@ -2,16 +2,12 @@ name: Node.js CI
 
 on: 
   schedule: 
-    - cron: "* */2 * * *"
+    - cron: "0 */2 * * *"
     
 jobs:
   build:
     
     runs-on: ubuntu-latest
-    
-    strategy:
-      matrix:
-        node-version: 14.x
         
     steps:
     - uses: actions/checkout@v2
@@ -19,6 +15,6 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-    - run: npm ci
-    - run: npm run build --if-present
+    - run: npm install
+    - run: npm run update-readme
     - run: npm test
