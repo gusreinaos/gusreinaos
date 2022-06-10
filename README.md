@@ -12,7 +12,7 @@ Currently studying a BSc of Software Engineering and Management with Göteborgs 
 ```js
 const gusreinaos = {
   pronouns: "he" | "him",
-  languages: [Java, HTML, CSS, JavaScript, TypeScript],
+  languages: [Java, HTML, CSS, JavaScript],
   tools: [Bootstrap]
 }
 ```
