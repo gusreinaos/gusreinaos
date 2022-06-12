@@ -10,7 +10,7 @@ I'm a new Spanish 🇪🇸 and Swedish 🇸🇪 programming student with a lot o
 Currently studying a BSc of Software Engineering and Management with Göteborgs Universitet and Chalmers University of Technology. 
 
 ```js
-const gusreinaos = {
+const moreAboutMe = {
   pronouns: "he" | "him",
   languages: [Java, HTML, CSS, JavaScript],
   tools: [Bootstrap]
