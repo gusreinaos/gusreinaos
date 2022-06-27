@@ -12,8 +12,8 @@ Currently studying a BSc of Software Engineering and Management with Göteborgs 
 ```js
 const moreAboutMe = {
   pronouns: "he" | "him",
-  languages: [Java, HTML, CSS, JavaScript],
-  tools: [Bootstrap]
+  languages: [Java, HTML, CSS, C++, C#, JavaScript],
+  tools: [Bootstrap, .NET]
 }
 ```
 
