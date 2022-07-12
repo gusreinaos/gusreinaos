@@ -11,8 +11,8 @@ Currently studying a BSc of Software Engineering and Management at a joint depar
 
 ```js
 const moreAboutMe = {
-  pronouns: "he" | "him",
-  languages: [Java, HTML, CSS, C++, C#, JavaScript],
+  frontEnd: [HTML, CSS, JavaScript]
+  backEnd: [Java, C++, C#],
   tools: [Bootstrap, .NET]
 }
 ```
