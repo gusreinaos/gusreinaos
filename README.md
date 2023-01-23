@@ -11,8 +11,9 @@ Currently studying a BSc of Software Engineering and Management at a joint depar
 
 ```js
 const moreAboutMe = {
-  frontEnd: [HTML, CSS, JavaScript, Bootstrap],
-  backEnd: [Java, C#, .NET]
+  frontEnd: [HTML, CSS, JavaScript, TypeScript, Bootstrap],
+  backEnd: [Java, C#, C, C++],
+  frameworks: [.NET, React, Vue]
 }
 ```
 
