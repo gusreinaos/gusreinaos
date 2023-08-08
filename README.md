@@ -16,9 +16,6 @@ const moreAboutMe = {
   frameworks: [.NET, Springboot, React, Vue]
 }
 ```
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusreinaos&layout=compact&card_width=1000px)](https://github.com/anuraghazra/github-readme-stats)
-
 - 🔭 I’m currently working on different personal projects that I'll be posting on my profile soon! 
 - 🌱 I’m currently learning TypeScript, C# and React
 - 👯 I’m looking to collaborate on any project in which I can get to know new concepts and of course meet people with whom we can share interests and learn from each other
